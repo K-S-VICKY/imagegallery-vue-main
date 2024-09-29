@@ -1,6 +1,6 @@
 <template>
   <div class="gallery">
-    <h1 class="gallery-heading"><b><i>SUPERRR GALLERY !!!</i></b></h1>
+    <h1 class="gallery-heading"><b><i>GALLERY !</i></b></h1>
 
     <!-- Folder Navigation -->
     <div class="folder-navigation">
@@ -114,7 +114,7 @@ export default {
   max-width: 1200px;
   margin: auto;
   padding: 20px;
-  background-color: rgb(32, 218, 125);
+  background-color: rgb(123, 216, 228);
   border:2px;
   border-color: black;
   border-radius: 5;
@@ -195,7 +195,7 @@ export default {
 .input-container input[type="file"] {
   padding: 12px;
   font-size: 16px;
-  background-color: #17db8d;
+  background-color: #5cc0b6;
   color: #e0e0e0;
   border: 1px solid #444444;
   border-radius: 50px;
